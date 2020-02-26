@@ -287,81 +287,29 @@ MonoBehaviour:
   selectionTransform: {fileID: 7949867569123073152}
   cursorTransform: {fileID: 8544432453097413216}
   top:
-    icon: {fileID: 21300000, guid: 59619d3f0b5459b48b11a533282fbc40, type: 3}
-    iconRenderer: {fileID: 7949867568816526483}
+    icon: {fileID: 0}
+    iconRenderer: {fileID: 0}
     onPress:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SetGrey
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
+        m_Calls: []
   right:
-    icon: {fileID: 21300000, guid: 1f265fc08ba538c429b038b1b28e70aa, type: 3}
-    iconRenderer: {fileID: 7949867569736044955}
+    icon: {fileID: 0}
+    iconRenderer: {fileID: 0}
     onPress:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SetPink
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
+        m_Calls: []
   bottom:
-    icon: {fileID: 21300000, guid: 59619d3f0b5459b48b11a533282fbc40, type: 3}
-    iconRenderer: {fileID: 7949867568838440139}
+    icon: {fileID: 0}
+    iconRenderer: {fileID: 0}
     onPress:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SetGrey
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
+        m_Calls: []
   left:
-    icon: {fileID: 21300000, guid: 1f265fc08ba538c429b038b1b28e70aa, type: 3}
-    iconRenderer: {fileID: 7949867570309217590}
+    icon: {fileID: 0}
+    iconRenderer: {fileID: 0}
     onPress:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SetPink
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-        Culture=neutral, PublicKeyToken=null
+        m_Calls: []
 --- !u!1 &7949867569123073155
 GameObject:
   m_ObjectHideFlags: 0
